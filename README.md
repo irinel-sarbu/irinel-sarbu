@@ -1,4 +1,4 @@
-Hi 👋 My name is Irinel Sarbu
+Hi 👋 My name is Irinel
 =============================
 
 Software Engineer
